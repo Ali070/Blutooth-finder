@@ -17,7 +17,9 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
-
+/*Blutooth finder
+*
+* It is an android app to find blutooth devices*/
 public class MainActivity extends AppCompatActivity {
     ListView listView;
     TextView status;
